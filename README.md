@@ -1,4 +1,4 @@
-#Explainable Deep Learning: A Study on Understanding Learning Process of Convolutional Neural Networks with Information Theory
+# Explainable Deep Learning: A Study on Understanding Learning Process of Convolutional Neural Networks with Information Theory
 
   The field of artificial intelligence and machine learning have been developing rapidly throughout the years. The success, especially in deep learning during the last decade, has been fast with their unpredictable achievements in international challenges. Deep learning algorithms have made remarkable progress on numerous machine learning tasks and dramatically improved the state-of-the-art in many functional areas ranging from visual image recognition to understanding languages from audio (Graves et al., 2013; Zhang and LeCun, 2015; Hinton et al., 2012; He et al. 2015; LeCun et al., 2015). In the result of this success; deep learning models have been used in various application areas such as criminal justice, medicine and finance.
 <br />
